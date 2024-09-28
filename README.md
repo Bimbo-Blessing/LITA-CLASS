@@ -13,3 +13,7 @@
   3. Visualization
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio building
+
+```SQL
+SELECT * FROM TABLE1WHERE CONDITION = TRUE
+```
