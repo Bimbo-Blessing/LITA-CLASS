@@ -15,5 +15,9 @@
 - GitHub for Portfolio building
 
 ```SQL
-SELECT * FROM TABLE1WHERE CONDITION = TRUE
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
 ```
+|Heading 1|Heading 2|Heading3|
+|---------|---------|--------|
+|Table 1| Table 2| Table3|
