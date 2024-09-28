@@ -1,6 +1,15 @@
 # LITA-CLASS
 
 ## Project Title: E coomerce Sales Analysis
+[Project Overview](#project-overview)
+
+[Data sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data cleaning and preparation)
+
+[Data Analysis](#data-analysis)
 
 ## Project Overview
 
