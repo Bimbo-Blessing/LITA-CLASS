@@ -1,6 +1,6 @@
 # LITA-CLASS
 
-## Project Title: E commerce Sales Analysis
+## Project Title: E-Commerce Sales Analysis
 [Project Overview](#project-overview)
 
 [Data sources](#data-sources)
